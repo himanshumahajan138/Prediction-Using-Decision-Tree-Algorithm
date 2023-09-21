@@ -23,13 +23,13 @@ The project is a Python script that performs a comprehensive analysis of the Iri
 ## Usage
 To use this code and analyze the Iris dataset, follow these steps:
 
-1. Clone this repository to your local machine: git clone <https://github.com/himanshumahajan138/Prediction-Using-Decision-Tree-Algorithm/>
+1. Clone this repository to your local machine: ```git clone https://github.com/himanshumahajan138/Prediction-Using-Decision-Tree-Algorithm```
 
-2. Install the required libraries if you haven't already. You can use pip for this: pip install pandas numpy matplotlib seaborn scikit-learn
+2. Install the required libraries if you haven't already. You can use pip for this: ```pip install pandas numpy matplotlib seaborn scikit-learn```
 
 3. Download the Iris dataset (Iris.csv) and place it in the same directory as the script.
 
-4. Run the script: python iris_analysis.py
+4. Run the script: ```python iris_analysis.py```
 
 5. The script will perform data analysis, build a model, and display the results and visualizations.
 
