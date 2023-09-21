@@ -1,11 +1,11 @@
-# Data Science Internship Task 2 - The Sparks Foundation
+# Data Science Internship Task 2 - [The Sparks Foundation](https://thesparksfoundationsingapore.org/)
 
 # Prediction-Using-Decision-Tree-Algorithm
 
 ## Introduction
-This repository contains the code and explanation for Task 2 of my Data Science internship at The Sparks Foundation. In this task, I have analyzed the Iris dataset, a classic dataset often used in machine learning for classification tasks.
+This repository contains the code and explanation for Task 2 of my Data Science internship at [The Sparks Foundation](https://thesparksfoundationsingapore.org/). In this task, I have analyzed the Iris dataset, a classic dataset often used in machine learning for classification tasks.
 
-## About The Sparks Foundation
+## About [The Sparks Foundation](https://thesparksfoundationsingapore.org/)
 The Sparks Foundation is a non-profit organization committed to providing opportunities for students and professionals to develop skills in various fields, including data science and machine learning. They offer a range of tasks and projects to help individuals gain practical experience and knowledge in these domains.
 
 ## Project Overview
@@ -34,11 +34,14 @@ To use this code and analyze the Iris dataset, follow these steps:
 5. The script will perform data analysis, build a model, and display the results and visualizations.
 
 ## Acknowledgments
-- The Sparks Foundation for providing this internship opportunity and the task.
+- [The Sparks Foundation](https://thesparksfoundationsingapore.org/) for providing this internship opportunity and the task.
 - The Iris dataset, a classic dataset for machine learning, available through various sources.
 
 Feel free to explore and modify the code to suit your own data analysis projects. Happy coding!
 
+## Author
 **Himanshu**  
 *Data Science Intern*  
-*The Sparks Foundation*
+*[The Sparks Foundation](https://thesparksfoundationsingapore.org/)*
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
